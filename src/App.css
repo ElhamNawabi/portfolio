@@ -16,9 +16,13 @@
   font-size: 1.40rem !important;
 }
 
-/* .custom-linked .social-svg-icon {
-  
-} */
+.linkedin{
+  padding-left: 2%;
+}
+
+.github {
+  padding-left: 2%;
+}
 .App {
   background-color: rgb(51, 50, 50);
 }
