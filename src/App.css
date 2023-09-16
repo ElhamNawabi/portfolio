@@ -40,6 +40,7 @@
 .about-text {
   color: rgb(255, 255, 255);
   font-family: 'Signika Negative', sans-serif;
+  font-size: 1.5rem;
 }
 
 /*experience*/
@@ -51,6 +52,63 @@
 }
 
 .exp-header {
+  color: rgb(255, 255, 255);
+  font-family: 'Signika Negative', sans-serif;
+  padding-bottom: 2%;
+}
+
+.flex-test {
+  display: flex;
+  padding-bottom: 1%;
+}
+
+.newstack-header {
+  color: rgb(255, 255, 255);
+  font-family: 'Signika Negative', sans-serif;
+}
+
+.newstack-header:hover {
+  color: #687b8a;
+  transition: 0.35s;
+}
+
+.custom-modal .modal-content {
+  background-color: rgb(51, 50, 50);
+  font-family: 'Signika Negative', sans-serif;
+  color: white;
+}
+
+.modal-header .btn-close {
+  background-color: white !important;
+}
+.newstack-date {
+  padding-left: 2%;
+  padding-top: 7px;
+  color: rgb(255, 255, 255);
+  font-family: 'Signika Negative', sans-serif;
+}
+
+.details {
+  color: rgb(255, 255, 255);
+  font-family: 'Signika Negative', sans-serif;
+}
+
+.merlin-flex {
+  display: flex;
+}
+
+.merlin-header {
+  color: rgb(255, 255, 255);
+  font-family: 'Signika Negative', sans-serif
+}
+
+.merlin-header:hover {
+  color: #687b8a;
+  transition: 0.35s;
+}
+.merlin-date {
+  padding-left: 2%;
+  padding-top: 7px;
   color: rgb(255, 255, 255);
   font-family: 'Signika Negative', sans-serif;
 }

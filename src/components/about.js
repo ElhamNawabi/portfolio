@@ -9,8 +9,6 @@ const about = () => {
         Tristique risus nec feugiat in fermentum posuere. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Morbi non arcu risus quis. Sed arcu non odio euismod lacinia at. Integer malesuada nunc vel risus commodo.
         Lectus arcu bibendum at varius vel pharetra. Arcu risus quis varius quam quisque id diam. Cras fermentum odio eu feugiat.
         </p>
-        
-
     </div>
   )
 }
