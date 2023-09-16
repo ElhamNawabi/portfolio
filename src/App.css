@@ -112,6 +112,27 @@
   color: rgb(255, 255, 255);
   font-family: 'Signika Negative', sans-serif;
 }
+
+/* skills */
+.skills-container {
+  padding-top: 125px;
+  width: 50%;
+  padding-left: 100px;
+}
+
+.skills-header {
+  color: rgb(255, 255, 255);
+  font-family: 'Signika Negative', sans-serif;
+}
+
+.custom-card.card{
+  background-color: rgb(117, 115, 115);
+  width: 30rem;
+}
+
+.list{
+  font-family: 'Signika Negative', sans-serif;
+}
 .App {
   background-color: rgb(51, 50, 50);
 }
