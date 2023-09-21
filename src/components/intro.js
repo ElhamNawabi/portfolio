@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { SocialIcon } from 'react-social-icons';
+import Image from 'react-bootstrap/Image';
 import "../App.css";
 
 
@@ -12,6 +13,7 @@ function Intro() {
 
   return (
     <div className="intro-container">
+      <Image className="intro-img" src="/images/guts.gif" roundedCircle />
         <h1 className="bio">
             Hi, my name is Elham Nawabi and I'm a software developer
             with a passion for crafting seamless digital experiences!
