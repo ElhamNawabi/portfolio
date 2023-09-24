@@ -38,6 +38,7 @@
   padding-top: 125px;
   width: 50%;
   padding-left: 100px;
+  padding-bottom: 125px;
 }
 
 .about-header {
@@ -170,6 +171,53 @@ li {
   margin: 0;
 }
 
+/* footer */
+.footer-container {
+  font-family: 'Signika Negative', sans-serif;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  background-color: #282c34;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  width: 100%;
+}
+
+.email {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 1.25rem;
+}
+
+.email-color {
+  font-size: 1.42rem;
+  --bg-size: 400%;
+  --color-one: hsl(143, 90%, 55%);
+  --color-two: hsl(209, 71%, 52%);
+  background: linear-gradient(
+    90deg,
+    var(--color-one),
+    var(--color-two),
+    var(--color-one)
+  ) 0 0 / var(--bg-size) 100%;
+  color: transparent;
+  background-clip: text;
+  animation: move-bg 5s infinite linear;
+}
+
+@keyframes move-bg {
+  to {
+    background-position: var(--bg-size) 0;
+  }
+}
+
+.footer-links span{
+  margin: 10px;
+}
 
 .App {
   display: flex;
