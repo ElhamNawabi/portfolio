@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Signika+Negative:wght@400;600&display=swap');
 /* intro */
 .intro-container {
   padding-top: 200px;
@@ -14,11 +14,15 @@
 }
 
 .bio {
+  padding-top: 40px;
   color: rgb(255, 255, 255);
   font-family: 'Signika Negative', sans-serif;
   padding-bottom: 40px;
 }
 
+.digital {
+  font-family: 'Pixelify Sans', cursive;
+}
 .btn-dark {
   font-family: 'Signika Negative', sans-serif !important;
   font-size: 1.40rem !important;
@@ -27,7 +31,6 @@
 .linkedin{
   padding-left: 2%;
 }
-
 
 .github {
   padding-left: 2%;

@@ -16,7 +16,7 @@ function Intro() {
       <Image className="intro-img" src="/images/hello.gif" roundedCircle />
         <h1 className="bio">
             Hi, my name is Elham Nawabi and I'm a software developer
-            with a passion for crafting seamless digital experiences!
+            with a passion for crafting seamless <span class="digital">digital</span> experiences!
         </h1>
         <span className="resume">
           <Button variant="dark" size="lg" href="https://drive.google.com/file/d/1uPhpdez7s9fkOLC-UThC-79c12uj2_qa/view?usp=sharing">Resume</Button>
