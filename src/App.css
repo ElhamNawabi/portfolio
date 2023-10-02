@@ -47,6 +47,7 @@
 .about-header {
   color: rgb(255, 255, 255);
   font-family: 'Signika Negative', sans-serif;
+  cursor: default;
 }
 
 .about-header:hover {
@@ -86,6 +87,7 @@
 .newstack-header {
   color: rgb(255, 255, 255);
   font-family: 'Signika Negative', sans-serif;
+  cursor: default;
 }
 
 .newstack-header:hover {
@@ -120,7 +122,8 @@
 
 .merlin-header {
   color: rgb(255, 255, 255);
-  font-family: 'Signika Negative', sans-serif
+  font-family: 'Signika Negative', sans-serif;
+  cursor: default;
 }
 
 .merlin-header:hover {
