@@ -19,7 +19,7 @@ function Intro() {
             with a passion for crafting seamless <span class="digital">digital</span> experiences!
         </h1>
         <span className="resume">
-          <Button variant="dark" size="lg" href="https://drive.google.com/file/d/1uPhpdez7s9fkOLC-UThC-79c12uj2_qa/view?usp=sharing">Resume</Button>
+          <Button variant="dark" size="lg" href="https://drive.google.com/file/d/1ViEp9t7JKbpviO3HMkuiqAVSPvoGorv6/view">Resume</Button>
         </span>
         <span className="linkedin">
           <SocialIcon className="custom-linked" network="linkedin" 

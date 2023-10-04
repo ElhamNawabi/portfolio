@@ -17,7 +17,7 @@ function Footer() {
 
       <div className="footer-links">
         <span className="resume-footer">
-          <Button className="custom-button" variant="dark" size="lg" href="https://drive.google.com/file/d/1uPhpdez7s9fkOLC-UThC-79c12uj2_qa/view?usp=sharing">Resume</Button>
+          <Button className="custom-button" variant="dark" size="lg" href="https://drive.google.com/file/d/1ViEp9t7JKbpviO3HMkuiqAVSPvoGorv6/view">Resume</Button>
         </span>
         <span className="linkedin-footer">
           <SocialIcon className="custom-linked-f" network="linkedin"
