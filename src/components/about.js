@@ -21,7 +21,7 @@ function About() {
             In these teams, I've not only lent my technical expertise but also actively embraced knowledge-sharing and open communication.
              I firmly believe that the most outstanding outcomes emerge from collective endeavors.
           </p>
-          <p className="close-text">*Feel free to close this egregiously long wall of text by clicking the header again :)*</p>
+          <p className="close-text" onClick={() => setOpen(!open)}>*Feel free to close this egregiously long wall of text by clicking me :)*</p>
           </div>
         </Collapse>
         

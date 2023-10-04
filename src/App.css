@@ -236,3 +236,46 @@ li {
   margin: 0;
   background-color: rgb(51, 50, 50);
 }
+
+@media screen and (max-width: 768px) {
+  .intro-container {
+    padding-top: 100px;
+    width: 100%;
+    padding-left: 50px;
+  }
+
+  .about-container {
+    padding-top: 60px;
+    width: 100%;
+    padding-left: 50px;
+    padding-bottom: 60px;
+  }
+
+  .exp-container {
+    padding-top: 60px;
+    width: 100%;
+    padding-left: 50px;
+  }
+
+  .skills-container {
+    padding-top: 60px;
+    width: 100%;
+    padding-left: 50px;
+  }
+
+  .custom-card {
+    width: 100% !important; /* Adjust this value as needed */
+  }
+
+  .footer-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 111.5%;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .App {
+    padding: 20px;
+  }
+}
