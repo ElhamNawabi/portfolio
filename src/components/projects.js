@@ -25,12 +25,12 @@ function OpenDatLyricSearcherModal(props) {
                     all the data back to the front-end. That's where the front-end would work its magic and scrape the lyrics to provide it for you!
                 </p>
                 <p>
-                    Anyways, I yap too much. To run this, you will need to run the proxy server first and then the front end.
-                    Here is the github repos for both of them!
+                    Anyways, I yap too much. To run this and get the lyrics,
+                    the proxy server locally (searching to receive top 12 tracks/artists still works). Below is the link to the github repo for it as well as the hosted front-end.
                 </p>
                 <p>
-                    <a className="proj-link" href="https://github.com/ElhamNawabi/lyrics-searcher">Lyrics Searcher</a> and
-                    <a className="proj-link" href="https://github.com/ElhamNawabi/proxy-server">Proxy Server</a>
+                    <a className="proj-link" target="_blank" rel="noopener noreferrer" href="https://lyrics-searcher-woad.vercel.app/">Lyrics Searcher</a> and
+                    <a className="proj-link" target="_blank" rel="noopener noreferrer" href="https://github.com/ElhamNawabi/proxy-server"> Proxy Server Github Repo</a>
                 </p>
             </Modal.Body>
         </Modal>

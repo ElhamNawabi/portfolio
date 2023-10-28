@@ -219,6 +219,10 @@ li {
   transition: 0.35s;
 }
 
+.proj-link {
+  color: white;
+}
+
 /* footer */
 .footer-container {
   font-family: 'Signika Negative', sans-serif;
