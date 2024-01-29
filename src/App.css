@@ -158,24 +158,23 @@
 
 .custom-card.card {
   background-color: rgb(117, 115, 115);
-  min-width: 400px;
 }
 
 .list {
   font-family: 'Signika Negative', sans-serif;
 }
 .list h5{
-  display: inline;
+  display: inline-block;
   vertical-align: middle;
-  padding-left: 7px;
+  padding-left: 0.4375em;
 }
 
 .list p {
-  padding-left: 50px;
+  padding-left: 3.6em;
 }
 
 .skills-logo {
-  width: 10%;
+  width: 3rem;
 }
 
 li {
